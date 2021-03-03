@@ -1,0 +1,4 @@
+progressbar
+numpy
+tensorflow>=2
+pyminc

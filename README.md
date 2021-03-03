@@ -9,10 +9,9 @@ To install the required software tools using pip, run:
 ```
 pip install -r requirements.txt
 ```
+The procssing of data and running the script currently rely on the minc toolkit (https://github.com/BIC-MNI/minc-toolkit-v2)
 
 ## Prepare data
-
-The procssing of data relies on the minc toolkit (https://github.com/BIC-MNI/minc-toolkit-v2)
 
 Dicom data is converted into minc files 
 ```
